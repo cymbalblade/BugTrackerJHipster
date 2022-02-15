@@ -1,0 +1,2 @@
+# BugTrackerJHipster
+jhipster tutorial
